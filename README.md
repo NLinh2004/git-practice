@@ -1,2 +1,1 @@
-# Git Practice
- Giới thiệu: Tôi là Tăng Thị Nhựt Linh, MSSV 221447.
+Đây là README từ nhánh conflict-demo.
