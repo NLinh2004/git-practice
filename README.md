@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là Tăng Thị Nhựt Linh, MSSV 221447
+ Giới thiệu: Tôi là Tăng Thị Nhựt Linh, MSSV 221447.
